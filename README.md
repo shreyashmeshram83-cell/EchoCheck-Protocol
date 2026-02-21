@@ -1,1 +1,1 @@
-.
+EchoCheck is a next-generation "Humanity-as-a-Service" widget designed to combat the "Dead Internet" problem, where AI-generated traffic dominates online interactions. Instead of traditional CAPTCHAs, it analyzes subtle biological micro-signals (like organic noise in mouse movements and touch gestures) that AI cannot replicate, using a lightweight TensorFlow.js model for edge-based detection. The solution is invisible, privacy-focused (no biometric data stored), and generates proof-of-humanity tokens for secure verification
