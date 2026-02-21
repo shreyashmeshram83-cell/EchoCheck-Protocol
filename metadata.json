@@ -1,0 +1,5 @@
+{
+  "name": "EchoCheck",
+  "description": "Sub-perceptual mouse biometric CAPTCHA alternative using behavioral bot detection.",
+  "requestFramePermissions": []
+}
